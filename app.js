@@ -17,3 +17,4 @@ const cal = {
 };
 
 const result = cal.Plus(4,5)
+alert(result)
