@@ -1,2 +1,2 @@
-const age = prompt("너는 몇살?")
-alert(age, parseInt(age))
+const age = parseInt(prompt("너는 몇살?"))
+alert(age)
